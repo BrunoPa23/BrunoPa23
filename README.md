@@ -19,7 +19,8 @@ Ingeniero de Software (UPC) y desarrollador fullstack freelance. Trabajo sobre t
 
 | Proyecto | Que hace | Stack |
 |---|---|---|
-| [odds-arbitrage-detector](https://github.com/BrunoPa23/odds-arbitrage-detector) | API REST que detecta oportunidades de arbitraje entre casas de apuestas comparando cuotas del mercado 1X2 en tiempo real | ASP.NET Core, LINQ, The Odds API |
+| [VisionCare Backend](https://github.com/VisionCareGroup/Backend) | Proyecto final de carrera (UPC, 2025, en equipo): reconoce etiquetas de medicamentos con OCR, las interpreta con GPT y programa recordatorios; desplegado en Azure con CI/CD | ASP.NET Core 8, DDD, EF Core, JWT, Azure AI Vision, OpenAI |
+| [odds-arbitrage-detector](https://github.com/BrunoPa23/odds-arbitrage-detector) | Detecta oportunidades de arbitraje entre casas de apuestas (mercado 1X2) y calcula el reparto optimo de stake; API + dashboard | ASP.NET Core 10, LINQ, Angular, xUnit, GitHub Actions |
 | [todo-api-dotnet](https://github.com/BrunoPa23/todo-api-dotnet) | API REST de tareas con Minimal API y EF Core, backend de react-todo-app | ASP.NET Core, EF Core |
 | [react-todo-app](https://github.com/BrunoPa23/react-todo-app) | Aplicacion de tareas con componentes, custom hooks y persistencia local | React 18 |
 | [csharp-katas](https://github.com/BrunoPa23/csharp-katas) | Katas de algoritmos y estructuras de datos con tests | C#, xUnit |
